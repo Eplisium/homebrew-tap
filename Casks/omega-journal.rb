@@ -1,6 +1,6 @@
 cask "omega-journal" do
-  version "1.1.0"
-  sha256 "268eea4238f58b0a70e1159bd3e705d27c69debeed1b2268dd56dc7968470495"
+  version "1.2.0"
+  sha256 "529ad65016c4535cc9d1a88ee3f924b594c5c31c1212c2bea7c9f57ad226f542"
 
   url "https://github.com/Eplisium/omega-journal/releases/download/v#{version}/Omega-Journal-#{version}.dmg"
   name "Omega Journal"
